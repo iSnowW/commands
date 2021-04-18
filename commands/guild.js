@@ -1,4 +1,3 @@
-'use strict';
 
 const BaseManager = require('./BaseManager');
 const GuildChannel = require('../structures/GuildChannel');
