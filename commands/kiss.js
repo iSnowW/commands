@@ -21,7 +21,7 @@ if (!user) {
 return message.reply('lembre-se de mencionar um usuário válido para beijar');
 }
 /*
-message.channel.send(`${message.author.username} **acaba de abraçar** ${user.username}! :heart:`, {files: [rand]});
+message.channel.send(`${message.author.username} **acaba de beijar** ${user.username}! :heart:`, {files: [rand]});
 */
 let avatar = message.author.displayAvatarURL({format: 'png'});
   const embed = new Discord.MessageEmbed()
